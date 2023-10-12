@@ -1,0 +1,9 @@
+[submodule "pos-backend"]
+	path = pos-backend
+	url = https://github.com/ushieru/pos-backend
+[submodule "pos-client"]
+	path = pos-client
+	url = https://github.com/ushieru/pos-client
+[submodule "pos-waiter"]
+	path = pos-waiter
+	url = https://github.com/ushieru/pos-waiter
