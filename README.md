@@ -38,6 +38,13 @@ $ ./pos serve
    ![totalpos-login](.github/assets/config-conections.png)
 - Desde el cliente da click al engrane y configura el IP del server al que te quieras conectar.
 
+### Credenciales
+|User|Password|Role|
+|-|-|-|
+|admin|admin|admin|
+|waiter|waiter|waiter|
+|cashier|cashier|cashier|
+
 ## Screenshots
 
 ### Administrador 
