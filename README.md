@@ -22,7 +22,7 @@ Si quieres usar la UI Web descarga [**ui-web.zip**](https://github.com/ushieru/p
 ```
 
 ## Ejecutar
-Ejecuta el binario y el comando serve.
+Ejecuta el binario con el comando serve.
 
 ```
 $ ./pos serve
@@ -39,11 +39,24 @@ $ ./pos serve
 - Desde el cliente da click al engrane y configura el IP del server al que te quieras conectar.
 
 ### Credenciales
-|User|Password|Role|
-|-|-|-|
-|admin|admin|admin|
-|waiter|waiter|waiter|
-|cashier|cashier|cashier|
+| User    | Password | Role    |
+| ------- | -------- | ------- |
+| admin   | admin    | admin   |
+| waiter  | waiter   | waiter  |
+| cashier | cashier  | cashier |
+
+### Config
+Puedes agregar un archivo **pos-config.yaml** a nivel del ejecutable para configurar un par de cosas.
+
+```yaml
+host:
+  port: 8080
+database:
+  name: point-of-sale
+  logger: info # [info, silent, error]
+jwt:
+  secret: my_super_secret_word
+```
 
 ## Screenshots
 
