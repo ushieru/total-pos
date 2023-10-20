@@ -2,6 +2,9 @@
 
 Punto de venta 100% gratuito y de codigo abierto.
 
+> [!WARNING]
+> Tenga en cuenta que Total POS está todavía en desarrollo activo y por lo tanto no se garantiza la plena compatibilidad con versiones anteriores antes de llegar a la v1.0.0.
+
 ## Descarga o compila tu mismo
 
 [![DescargarPos](https://img.shields.io/badge/Descargar%20Pos-000000?style=for-the-badge)](https://github.com/ushieru/pos-backend/releases)
