@@ -20,8 +20,9 @@ Si quieres usar la UI Web descarga [**ui-web.zip**](https://github.com/ushieru/p
    |- pos.db
    |- public
       |- index.html
-      |- flutter.js
-      |- [etc...]
+      |- assets/
+      |- favicon.svg
+      |- icon.svg
 ```
 
 ## Ejecutar
