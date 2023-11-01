@@ -12,7 +12,7 @@ Punto de venta 100% gratuito y de codigo abierto.
 
 ### WEB-UI
 
-Si quieres usar la UI Web descarga [**ui-web.zip**](https://github.com/ushieru/pos-client/releases/download/v0.0.1-alfa/ui-web.zip) descomprimelo y guarda el contenido en una carpeta **public** al nivel del binario de **pos**.
+Si quieres usar la UI Web descarga [**ui-web.zip**](https://github.com/ushieru/pos-client/releases/download/v0.0.2-alfa/ui-web.zip) descomprimelo y guarda el contenido en una carpeta **public** al nivel del binario de **pos**.
 
 ```bash
 -- pos-folder
