@@ -36,9 +36,9 @@ $ ./pos serve
 ### Conectar clientes
 
 - Asegurate de estar en la misma red local
-- Use el boton de la antena que esta en el login para saber a que IP y puerto conectarte desde tu otro cliente (celular/PC). Puedes escanear el QR con tu celular.
+- Use el boton de info que esta en el login para saber a que IP y puerto conectarte desde tu otro cliente (celular/PC).
   
-   ![totalpos-login](.github/assets/config-conections.png)
+![totalpos-login](.github/assets/config-conections.png)
 - Desde el cliente da click al engrane y configura el IP del server al que te quieras conectar.
 
 ### Credenciales
@@ -66,7 +66,7 @@ jwt:
 ### Administrador 
 |                                                      |                                                      |                                                            |
 | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------- |
-| ![totalpos-login](.github/assets/totalpos-login.png) | ![totalpos-users](.github/assets/totalpos-users.png) | ![totalpos-products](.github/assets/totalpos-products.png) |
+| ![totalpos-login](.github/assets/totalpos-login.png) | ![totalpos-tickets](.github/assets/totalpos-tickets.png) | ![totalpos-products](.github/assets/totalpos-products.png) |
 
 ### Mesero 
 |                                                        |                                                                              |                                                                                      |
