@@ -37,10 +37,9 @@ $ ./pos serve
 ### Conectar clientes
 
 - Asegurate de estar en la misma red local
-- Use el boton de info que esta en el login para saber a que IP y puerto conectarte desde tu otro cliente (celular/PC).
+- Puedes configurar el host desde el engrane el el login.
   
 ![totalpos-login](.github/assets/config-conections.png)
-- Desde el cliente da click al engrane y configura el IP del server al que te quieras conectar.
 
 ### Credenciales
 | User    | Password | Role    |
@@ -64,12 +63,7 @@ jwt:
 
 ## Screenshots
 
-### Administrador 
-|                                                      |                                                      |                                                            |
-| ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------- |
-| ![totalpos-login](.github/assets/totalpos-login.png) | ![totalpos-tickets](.github/assets/totalpos-tickets.png) | ![totalpos-products](.github/assets/totalpos-products.png) |
-
-### Mesero 
-|                                                        |                                                                              |                                                                                      |
-| ------------------------------------------------------ | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![totalpos-waiter](.github/assets/totalpos-waiter.png) | ![totalpos-waiter-ticket-details](.github/assets/totalpos-waiter-ticket.png) | ![totalpos-waiter-ticket-details](.github/assets/totalpos-waiter-ticket-details.png) |
+![totalpos-login](.github/assets/totalpos-login.png)
+![totalpos-users](.github/assets/totalpos-users.png)
+![totalpos-categories](.github/assets/totalpos-categories.png)
+![totalpos-products](.github/assets/totalpos-products.png)
