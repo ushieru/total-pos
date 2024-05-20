@@ -37,9 +37,7 @@ $ ./pos serve
 ### Conectar clientes
 
 - Asegurate de estar en la misma red local
-- Puedes configurar el host desde el engrane el el login.
-  
-![totalpos-login](.github/assets/config-conections.png)
+- Puedes configurar el host desde el engrane en el login.
 
 ### Credenciales
 | User    | Password | Role    |
